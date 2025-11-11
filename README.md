@@ -126,7 +126,6 @@ Detected correlation between discounts and purchase frequency
 
 ▶️ How to Run the Project
 1. Clone the repository
-git clone https://github.com/yourusername/data-analytics-project.git
 cd data-analytics-project
 
 2. Install required libraries
